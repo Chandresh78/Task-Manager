@@ -1,7 +1,3 @@
-Sure, here's a README file for your Flask Task Manager web application:
-
----
-
 # Flask Task Manager
 
 Flask Task Manager is a simple web application built with Flask, a micro web framework for Python. It allows users to manage their tasks, including adding new tasks and downloading task history with dates.
