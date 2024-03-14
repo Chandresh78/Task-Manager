@@ -44,7 +44,3 @@ To run the Flask Task Manager locally, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README file with additional information or instructions specific to your project.
